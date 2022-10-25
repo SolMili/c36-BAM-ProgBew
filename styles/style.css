@@ -1,0 +1,20 @@
+body{background-color: rgb(105, 211, 253);
+
+
+}
+span{
+      color: blue;
+      font-weight: 600; 
+      font-size: 20px;  
+      font-family: sans-serif;
+}
+
+img{
+    width: 400px;
+    margin-left: 25px;
+
+}
+
+footer{
+    background-color: rgb(127, 127, 244);
+}
